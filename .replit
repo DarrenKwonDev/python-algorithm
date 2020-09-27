@@ -1,4 +1,4 @@
 language = "bash"
-run = "python basic2.py"
+run = "python greedy/test.py"
 
 
