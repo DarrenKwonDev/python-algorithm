@@ -1,2 +1,3 @@
-python tips.py
-python greedy/test2.py
+python basic.py
+python basic2.py
+python greedy/test.py

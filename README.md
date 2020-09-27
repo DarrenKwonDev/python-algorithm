@@ -18,3 +18,8 @@
 ## useful source
 https://algorithm-visualizer.org/  
 http://pythontutor.com/visualize.html#mode=edit  
+
+## for using replit
+
+if replit git doesn't work then
+try `rm .git/index.lock` in bash

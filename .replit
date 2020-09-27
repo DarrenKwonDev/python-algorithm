@@ -1,3 +1,4 @@
 language = "bash"
-run = "python tips2.py"
+run = "python basic2.py"
+
 
