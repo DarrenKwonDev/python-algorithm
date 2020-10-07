@@ -22,8 +22,23 @@ https://repl.it/@anatomy1545/python-algorithm
 ## useful source
 https://algorithm-visualizer.org/  
 http://pythontutor.com/visualize.html#mode=edit  
+https://github.com/ndb796/Python-Competitive-Programming-Team-Notes  
+
 
 ## for using replit
 
 if replit git doesn't work then
 try `rm .git/index.lock` in bash
+
+
+## want some badges?  
+
+### boj
+https://github.com/mazassumnida/mazassumnida?fbclid=IwAR0ioTQ2Kc_w1pgZt98rdxWEeOu7gPyqfPi2myTAkJTj7ZqaMHrV2yrWceQ
+
+### codeforces
+https://github.com/kehsihba19/CP-Badges
+
+
+### etc  
+https://github.com/MikeCodesDotNET/ColoredBadges
