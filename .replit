@@ -1,4 +1,4 @@
 language = "bash"
-run = "python playgrd.py"
+run = "python sort/merge.py"
 
 
