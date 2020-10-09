@@ -1,4 +1,4 @@
 language = "bash"
-run = "python matrix/nbyn.py"
+run = "python playgrd.py"
 
 
