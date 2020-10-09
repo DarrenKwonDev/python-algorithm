@@ -42,3 +42,7 @@ https://github.com/kehsihba19/CP-Badges
 
 ### etc  
 https://github.com/MikeCodesDotNET/ColoredBadges
+
+
+## problem  
+https://www.notion.so/a5a0fafe306e4cb78ec4476a272d156d?v=e116f6cdc6e34075bf8e4c0e56429a26

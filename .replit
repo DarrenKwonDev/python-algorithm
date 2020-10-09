@@ -1,4 +1,4 @@
 language = "bash"
-run = "python sort/merge.py"
+run = "python solved/jeju/ex01.py"
 
 
